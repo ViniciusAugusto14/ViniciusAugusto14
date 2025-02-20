@@ -1,4 +1,4 @@
-### Olá eu sou um Vinicius Augusto 🤟
+### Olá eu sou o Vinicius Augusto 🤟
 [![Pinterest](https://aleen42.github.io/badges/src/pinterest.svg)](https://br.pinterest.com/augvns/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/augvns)
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/spaccx/)
